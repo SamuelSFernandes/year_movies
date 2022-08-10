@@ -1,6 +1,6 @@
-# movies
+# Year Movies
 
-A new Flutter project.
+Projeto feito na versão 3.0.3 do flutter. Caso use FVM basta da um FVM install
 
 ## Getting Started
 
